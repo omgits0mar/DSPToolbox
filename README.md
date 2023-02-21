@@ -4,33 +4,9 @@ This repository contains a collection of C# codes for digital signal processing.
 
 - DSPComponents/
   - Algorithms/
-    - AccumulationSum.cs
-    - Adder.cs
-    - Algorithm.cs
-    - DCT.cs
-    - DC_Component.cs
-    - Derivatives.cs
-    - DirectConvolution.cs
-    - DirectCorrelation.cs
-    - DiscreteFourierTransform.cs
-    - FIR.cs
-    - FastConvolution.cs
-    - FastCorrelation.cs
-    - FastFourierTransform.cs
-    - Folder.cs
-    - InverseDiscreteFourierTransform.cs
-    - inverseFastFourierTransform.cs
-    - MovingAverage.cs
-    - MultiplySignalByConstant.cs
-    - Normalizer.cs
-    - QuantizationAndEncoding.cs
-    - Sampling.cs
-    - Shifter.cs
-    - SinCos.cs
-    - Subtractor.cs
-    - TimeDelay.cs
-    - Utilities.cs
+    - You can find here all the algorithms you want in Signal processing
   - DataStructures/
+    - More info on the DS used.
   - Properties/
 
 ## Algorithms
